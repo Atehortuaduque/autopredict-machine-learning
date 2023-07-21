@@ -9,3 +9,5 @@ el Dataset que utilizamos para obtener la informacion de este proyecto fue sustr
 Los metodos utilizados para este proyecto son, GN bayes, Decision Tree, Random Forest, Support Virtual Machine
 
 El link a el repositorio: https://github.com/Atehortuaduque/autopredict-machine-learning/edit/main/README.md
+
+Link al video: https://youtu.be/ThZYILuueig
