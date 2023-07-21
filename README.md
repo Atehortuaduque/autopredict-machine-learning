@@ -1,3 +1,4 @@
+![WhatsApp Image 2023-07-21 at 10 41 43 AM](https://github.com/Atehortuaduque/autopredict-machine-learning/assets/140187815/a2e480d0-ac94-4080-95b1-2ffa0648bf1c)
 # autopredict-machine-learning
 this project contains all the information about our machine learning project which is focused on car price prediction
 we created this project with the goal of finding the most accurate prices for the characteristics of a car, we have taken into acount severals aspects of the car such as, engine, type, horsepower, torque, fuel consuption and some others to see what would be an accurate price for a car, this IA might be important for people either trying to buy or sell a car, because this could help them finding what would be a fair price for a vehiucle, the database we used for this project is big enough to know that we will have an accurate prediction.
