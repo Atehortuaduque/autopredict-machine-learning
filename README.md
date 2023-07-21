@@ -1,4 +1,11 @@
 ![WhatsApp Image 2023-07-21 at 10 41 43 AM](https://github.com/Atehortuaduque/autopredict-machine-learning/assets/140187815/a2e480d0-ac94-4080-95b1-2ffa0648bf1c)
 # autopredict-machine-learning
-this project contains all the information about our machine learning project which is focused on car price prediction
-we created this project with the goal of finding the most accurate prices for the characteristics of a car, we have taken into acount severals aspects of the car such as, engine, type, horsepower, torque, fuel consuption and some others to see what would be an accurate price for a car, this IA might be important for people either trying to buy or sell a car, because this could help them finding what would be a fair price for a vehiucle, the database we used for this project is big enough to know that we will have an accurate prediction.
+Juan Diego Atehortua Duque, Diego Andres Clavijo Granados, Jhonatan David Hernandez Martinez
+
+El objetivo de este proyecto es utilizar tecnicas de inteligencia artificial para predecir los precios de carros usados teniendo en cuenta diferentes caracteristicas de los mismos, tales como kilometraje, motor, torque, consumo de gasolina, modelo, año entre otros
+
+el Dataset que utilizamos para obtener la informacion de este proyecto fue sustraido de kaggle: https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?resource=
+
+Los metodos utilizados para este proyecto son, GN bayes, Decision Tree, Random Forest, Support Virtual Machine
+
+El link a el repositorio: https://github.com/Atehortuaduque/autopredict-machine-learning/edit/main/README.md
